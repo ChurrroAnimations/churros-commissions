@@ -20,10 +20,18 @@
     font-family: 'linkButtons';
     src: url('Resources/Fonts/Krona_One/KronaOne-Regular.ttf');
 }
+@font-face {
+    font-family: 'subsectionHeader';
+    src: url('Resources/Fonts/Unbounded/Static/Unbounded-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'subsectionText';
+    src: url();
+}
 
-.mainWrapper {
+.primaryContainer {
     margin: auto;
-    width: 40%;
+    width: 60%;
     border-radius: 50px;
     background-color: rgba(255,255,255,0.033);
     backdrop-filter: blur(0.1rem);
@@ -32,7 +40,12 @@
     transform: translateY(25%);
 }
 
-.mainDivider {
+.secondaryContainer {
+    width: 75%;
+    margin: auto;
+}
+
+.primaryDivider {
     border: 1px solid rgba(16, 16, 16, 0.33);
 }
 
@@ -46,17 +59,28 @@
     text-align: center;
     color: #F5FFFD;
     font-family: 'sectionHeader', sans-serif;
-    font-size: xx-large;
+    font-size: 50px;
 }
+
+.subsectionHeader {
+    text-align: left;
+    color: var(--textLyme);
+    font-family: 'subsectionHeader', sans-serif;
+    margin-bottom: -14px;
+}
+
+.subsectionText {
+    text-indent: 50px;
+    text-align: left;
+    color: var(--textLyme);
+    font-family: 'subsectionText', sans-serif;
+}
+
+
 
 /* Classes for the buttons */
     .linkButtonsLink {
         text-decoration: none;
-    }
-    
-    .linkButtons {
-        width: 75%;
-        margin: auto;
     }
 
     .linkButtons .gradient {
@@ -93,8 +117,21 @@
     .linkButtons .text {
         font-family: 'linkButtons';
         color: #FFF;
+        font-size: 20px;
     }
 
+.homeIconImg {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    display: block;
+}
+
+.homeIconDiv {
+    /*border: 1px solid black;*/
+    width: 30px;
+    margin: auto;
+}
 
 .TestB {
     padding:0.01em 16px;
