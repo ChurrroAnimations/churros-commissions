@@ -37,7 +37,6 @@
     backdrop-filter: blur(0.1rem);
     background-clip: padding-box;
     border-width: 2px;
-    transform: translateY(25%);
 }
 
 .secondaryContainer {
