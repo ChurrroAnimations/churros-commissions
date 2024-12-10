@@ -53,13 +53,14 @@
     text-align: center;
     color: var(--textLyme);
     font-family: 'homeGreeting', sans-serif;
+    font-size: 30px;
 }
 
 .sectionHeader {
     text-align: center;
     color: #F5FFFD;
     font-family: 'sectionHeader', sans-serif;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .subsectionHeader {
@@ -117,7 +118,7 @@
     .linkButtons .text {
         font-family: 'linkButtons';
         color: #FFF;
-        font-size: 20px;
+        font-size: 30px;
     }
 
 .homeIconImg {
@@ -128,55 +129,6 @@
 }
 
 .homeIconDiv {
-    /*border: 1px solid black;*/
     width: 30px;
     margin: auto;
-}
-
-.TestB {
-    padding:0.01em 16px;
-    margin:auto;
-    width: 100px;
-    border: 1px solid black;
-    
-    border-radius: 10px;
-}
-
-.TestCo {
-    padding:0.01em 16px;
-    margin:auto;
-    width: 100px;
-    border: 1px solid black;
-    border-radius: 10px;
-}
-
-
-
-/*.w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,*/
-.w3-container{
-    padding:0.01em 16px;
-    margin-top:16px;margin-bottom:16px;
-    width: 100px;
-    border: 1px solid black;
-    
-    border-radius: 10px;
-    margin: auto;
-}
-
-.w3-red,.w3-hover-red:hover{color:#fff!important;background-color:#f44336!important}
-
-
-.parent{
-    background: lightgreen;
-    width: 300px;
-    display: flex;
-    margin: auto;
-}
-
-
-.icon {
-    display: inline-block;
-    size:fitp;
-    background-repeat: no-repeat;
-    background-position: -18px 0px;
 }
