@@ -37,8 +37,7 @@
     backdrop-filter: blur(0.1rem);
     background-clip: padding-box;
     border-width: 2px;
-    margin-top: -5px;
-    margin-bottom: -5px;
+    transform: translateY(25%);
 }
 
 .secondaryContainer {
@@ -62,6 +61,8 @@
     color: #F5FFFD;
     font-family: 'sectionHeader', sans-serif;
     font-size: 60px;
+    margin-top: -5px;
+    margin-bottom: -5px;
 }
 
 .subsectionHeader {
