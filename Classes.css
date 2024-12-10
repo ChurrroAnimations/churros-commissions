@@ -53,6 +53,7 @@
     text-align: center;
     color: var(--textLyme);
     font-family: 'homeGreeting', sans-serif;
+    font-size: 60px;
 }
 
 .sectionHeader {
@@ -117,7 +118,7 @@
     .linkButtons .text {
         font-family: 'linkButtons';
         color: #FFF;
-        font-size: 40px;
+        font-size: 70px;
     }
 
 .homeIconImg {
