@@ -59,7 +59,7 @@
     text-align: center;
     color: #F5FFFD;
     font-family: 'sectionHeader', sans-serif;
-    font-size: 50px;
+    font-size: 75px;
 }
 
 .subsectionHeader {
@@ -117,7 +117,7 @@
     .linkButtons .text {
         font-family: 'linkButtons';
         color: #FFF;
-        font-size: 20px;
+        font-size: 40px;
     }
 
 .homeIconImg {
