@@ -50,10 +50,13 @@
 }
 
 /* Classes for the buttons */
+    .linkButtonsLink {
+        text-decoration: none;
+    }
+    
     .linkButtons {
         width: 75%;
         margin: auto;
-
     }
 
     .linkButtons .gradient {
