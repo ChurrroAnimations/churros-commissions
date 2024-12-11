@@ -8,26 +8,27 @@
     background-repeat: repeat;
 }
 
-@font-face {
-    font-family: 'homeGreeting';
-    src: url('Resources/Fonts/Unna/Unna-Regular.ttf');
-}
-@font-face {
-    font-family: 'sectionHeader';
-    src: url('Resources/Fonts/Lemonada/Static/Lemonada-Bold.ttf');
-}
-@font-face {
-    font-family: 'linkButtons';
-    src: url('Resources/Fonts/Krona_One/KronaOne-Regular.ttf');
-}
-@font-face {
-    font-family: 'subsectionHeader';
-    src: url('Resources/Fonts/Unbounded/Static/Unbounded-SemiBold.ttf');
-}
-@font-face {
-    font-family: 'subsectionText';
-    src: url('Resources/Fonts/Comic_Neue/ComicNeue-Regular.ttf');
-}
+/* Fonts */
+    @font-face {
+        font-family: 'homeGreeting';
+        src: url('Resources/Fonts/Unna/Unna-Regular.ttf');
+    }
+    @font-face {
+        font-family: 'sectionHeader';
+        src: url('Resources/Fonts/Lemonada/Static/Lemonada-Bold.ttf');
+    }
+    @font-face {
+        font-family: 'linkButtons';
+        src: url('Resources/Fonts/Krona_One/KronaOne-Regular.ttf');
+    }
+    @font-face {
+        font-family: 'subsectionHeader';
+        src: url('Resources/Fonts/Unbounded/Static/Unbounded-SemiBold.ttf');
+    }
+    @font-face {
+        font-family: 'subsectionText';
+        src: url('Resources/Fonts/Comic_Neue/ComicNeue-Regular.ttf');
+    }
 
 .primaryContainer {
     margin: auto;
