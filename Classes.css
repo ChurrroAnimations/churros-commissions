@@ -72,12 +72,38 @@
     margin-bottom: -14px;
 }
 
-.subsectionText {
-    text-indent: 50px;
-    text-align: left;
-    color: var(--textLyme);
-    font-family: 'subsectionText', sans-serif;
-}
+/*Subsection Text */
+    .subsectionText {
+        margin-left: 50px;
+        text-align: justify;
+        color: var(--textLyme);
+        font-family: 'subsectionText', sans-serif;
+    }
+    .subsectionList {
+        text-align: justify;
+        color: var(--textLyme);
+        font-family: 'subsectionText', sans-serif;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
+    .subsecTextLink {
+        color: hwb(120 25% 10%);
+    }
+    .subsecTextLink:visited {
+      color: hwb(120 50% 10%);
+      background-color: transparent;
+      text-decoration: none;
+    }
+    .subsecTextLink:hover {
+      color: hwb(140 25% 10%);
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    .subsecTextLink:active {
+      color: hwb(140 50% 10%);
+      background-color: transparent;
+      text-decoration: underline;
+    }
 
 
 
@@ -85,14 +111,12 @@
     .linkButtonsLink {
         text-decoration: none;
     }
-
     .linkButtons .gradient {
         width: 90%;
         margin: auto;
         text-align: center;
         border-radius: 5px;
     }
-
     .linkButtons .gA {
         background-image: linear-gradient(
             to right,
@@ -100,7 +124,6 @@
             var(--buttonGreen)
         );
     }
-
     .linkButtons .gB {
         background-image: linear-gradient(
             to right,
@@ -108,7 +131,6 @@
             var(--buttonYello)
         );
     }
-
     .linkButtons .gC {
         background-image: linear-gradient(
             to right,
@@ -116,7 +138,6 @@
             var(--buttonBleue)
         );
     }
-
     .linkButtons .text {
         font-family: 'linkButtons';
         color: #FFF;
