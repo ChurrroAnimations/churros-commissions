@@ -127,6 +127,7 @@
     height: 20px;
     margin: auto;
     display: block;
+    margin-top: -50px;
 }
 
 .homeIconDiv {
