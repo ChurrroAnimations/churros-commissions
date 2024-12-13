@@ -52,7 +52,7 @@
 .homeGreeting {
     text-align: center;
     color: var(--textLyme);
-    font-family: 'homeGreeting', sans-serif;
+    font-family: 'homeGreeting', serif;
     font-size: 30px;
 }
 
