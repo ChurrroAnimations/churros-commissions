@@ -1,0 +1,152 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+    <rect
+        width="120"
+        height="120"
+        fill="#822855"
+    />
+    <path
+        d="
+            M 0 20
+            L 0 10
+            L 30 10
+            L 30 20
+            A 15 10 0 0 1 0 20
+            
+            M 60 10
+            L 60 20
+            L 30 20
+            L 30 10
+            A 15 10 0 0 1 60 10
+            
+            M 80 0
+            L 70 0
+            L 70 30
+            L 80 30
+            A 10 15 0 0 0 80 0
+            
+            M 100 30
+            L 110 30
+            L 110 0
+            L 100 0
+            A 10 15 0 0 0 100 30
+            
+            M 0 40
+            L 0 50
+            L 30 50
+            L 30 40
+            A 15 10 0 0 0 0 40
+            
+            M 20 60
+            L 10 60
+            L 10 90
+            L 20 90
+            A 10 15 0 0 0 20 60
+            
+            M 10 90
+            L 20 90
+            L 20 120
+            L 10 120
+            A 10 15 0 0 1 10 90
+            
+            M 50 30
+            L 40 30
+            L 40 60
+            L 50 60
+            A 10 15 0 0 0 50 30
+            
+            M 40 60
+            L 50 60
+            L 50 90
+            L 40 90
+            A 10 15 0 0 1 40 60
+            
+            M 30 110
+            L 30 100
+            L 60 100
+            L 60 110
+            A 15 10 0 0 1 30 110
+            
+            M 60 100
+            L 60 110
+            L 90 110
+            L 90 100
+            A 15 10 0 0 0 60 100
+            
+            M 60 80
+            L 60 70
+            L 90 70
+            L 90 80
+            A 15 10 0 0 1 60 80
+            
+            M 90 70
+            L 90 80
+            L 120 80
+            L 120 70
+            A 15 10 0 0 0 90 70
+            
+            M 70 30
+            L 80 30
+            L 80 60
+            L 70 60
+            A 10 15 0 0 1 70 30
+            
+            M 120 50
+            L 120 40
+            L 90 40
+            L 90 50
+            A 15 10 0 0 0 120 50
+            
+            M 110 120
+            L 100 120
+            L 100 90
+            L 110 90
+            A 10 15 0 0 1 110 120
+        "
+        stroke="black" 
+        stroke-width="0"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="#e882b5"
+    />
+    <path
+        d="
+            M 0 5
+            L 0 10
+            L 10 10
+            L 10 5
+            A 5 5 0 0 0 0 5
+            
+            M 10 5
+            L 10 0
+            L 20 0
+            L 20 5
+            A 5 5 0 0 1 10 5
+            
+            M 20 5
+            L 20 10
+            L 30 10
+            L 30 5
+            A 5 5 0 0 0 20 5
+            
+            M 0 5
+            L 0 10
+            L 10 10
+            L 10 5
+            A 5 5 0 0 0 0 5
+        "
+        stroke="black" 
+        stroke-width="0"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="#d45393"
+    />
+    <path
+        d="
+        "
+        stroke="black" 
+        stroke-width="1"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"
+    />
+</svg>
